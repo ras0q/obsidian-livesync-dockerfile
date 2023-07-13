@@ -1,4 +1,4 @@
-# docker run --rm -it -e COUCHDB_USER=admin -e COUCHDB_PASSWORD=password -v /path/to/local.ini:/opt/couchdb/etc/local.ini -p 5984:5984 couchdb
+# https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/setup_own_server.md
 
 FROM couchdb
 
